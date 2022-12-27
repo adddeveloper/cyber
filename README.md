@@ -17,7 +17,7 @@ The Sysinternals Troubleshooting Utilities have been rolled up into a single Sui
 ## Contributing
 1. Fork it
 2. Create your feature branch
-3. Commit your chnages
+3. Commit your changes
 4. Push to the branch
 5. Create a new Pull Request
 
