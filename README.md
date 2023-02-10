@@ -1,5 +1,5 @@
 # Cybersecurity
-This repository provides multiple useful tools for cybersecurity analysis
+This repository provides multiple useful tools for cybersecurity analysis. Batch skripts use STIG database for a list of vulnerabilities and ways of hardening the Windows system. You will need to download the database and the tool to view it. Both can be found by searching STIG database.
 
 * [Dump Sec](https://www.systemtools.com/)
 * [Winfo](https://vidstromlabs.com/)
