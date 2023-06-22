@@ -7,21 +7,15 @@
   - Password must meet complexity requirements: _Enabled_
   - Store password using reversible encryption: _Disabled_
 
-<br>
-
 - Lockout Policy
   - Account lockout duration: _30 minutes_
   - Account lockout threshold: _10 incorrect passwords_
   - Reset account lockout counter after: _30 minutes_
 
-<br>
-
 - Local Users and Groups
   - Disable accounts for all **UNAUTHORIZED** users
   - _'Administrators'_ group should **ONLY** have **AUTHORIZED** admins
   - _'Guests'_ group should **ONLY** have 'Guest' account
-
-<br>
 
 - Enable all security settings in Windows Security
 
@@ -45,11 +39,7 @@
   - Link Layer Topology Discovery Responder
   - Link Layer Topology Discovery Mapper IO Driver
 
-    <br>
-
-    > Make sure _Internet Protocol Version 4 (TCP/IPv4)_ is **NOT UNCHECKED**
-
-<br>
+> Make sure _Internet Protocol Version 4 (TCP/IPv4)_ is **NOT UNCHECKED**
 
 - Services
   - UPnP Device Host: _Stopped and Disabled_
@@ -58,8 +48,6 @@
   - SNMP Trap: _Stopped and Disabled_
   - Windows Event Collector: _Running and Automatic_
   - Remote Registry: _Stopped and Disabled_
-
-<br>
 
 - Turn Windows features on or off **DISABLE**
   - Internet Information Services (IIS)
@@ -71,20 +59,14 @@
   - Client for NFS
   - World Wide Web Services (Windows Server **ONLY**)\
 
-<br>
-
 - Shared Folders _(only 3 shares unless README says otherwise)_
   - ADMIN$
   - C$
   - IPC$
 
-<br>
-
 - Firewall Rules
   - **ALLOW** outbound connections
   - **DISABLE** inbound connections
-
-<br>
 
 - Audit Policy: _Change all to **Success/Failure**_
 
