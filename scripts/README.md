@@ -4,6 +4,4 @@
 
 - **LockoutPolicyChanges** - Sets best lockout policy for the CyberPatriot/CyberTitan competiton
 
----
-
 > Run all scripts as **ADMINISTRATOR!**
